@@ -1,0 +1,6 @@
+{
+  "name": "AI-Based EDA Assistant",
+  "description": "Upload your data, understand it easily, and ask AI questions about it.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
